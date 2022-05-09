@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"AA ",
+		"AA ",
+		"AA "
+	],
+	"key": {
+		"A": {
+			"item": "judemod:nebula_planks"
+		}
+			},
+		
+	"result": {
+		"item": "judemod:nebula_door",
+		"count": 2
+		}
+	}
+}

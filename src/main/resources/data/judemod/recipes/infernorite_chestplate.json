@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"B B",
+		"BBB",
+		"BBB"
+	],
+	"key": {
+		"B": {
+			"item": "judemod:infernorite_ingot"
+		}
+	},
+	"result": {
+		"item": "judemod:infernorite_chestplate",
+		"count": 1
+	}
+}

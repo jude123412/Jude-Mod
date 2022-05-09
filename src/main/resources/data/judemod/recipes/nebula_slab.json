@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"AAA",
+		"   "
+	],
+	"key": {
+		"A": {
+			"item": "judemod:nebula_planks"
+		}
+			},
+	"result": {
+		"item": "judemod:nebula_slab",
+		"count": 6
+		}
+	}
+}

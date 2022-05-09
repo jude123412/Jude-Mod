@@ -1,0 +1,12 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	"ingredients" : [
+		{
+		"item" : "judemod:crynorium_block"
+		}
+	],
+	"result": {
+	 "item": "judemod:crynorium_ingot",
+	 "count": 9
+	}
+}

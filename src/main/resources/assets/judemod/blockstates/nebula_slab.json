@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "judemod:block/nebula_slab"
+    },
+    "type=double": {
+      "model": "judemod:block/nebula_planks"
+    },
+    "type=top": {
+      "model": "judemod:block/nebula_slab_top"
+    }
+  }
+}

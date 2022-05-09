@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"ABA",
+		"ABA"
+	],
+	"key": {
+		"A": {
+			"item": "judemod:nebula_planks"
+		},
+		"B": {
+			"item": "judemod:nebula_sticks"
+		}
+			},
+	"result": {
+		"item": "judemod:nebula_fence",
+		"count": 3
+		}
+	}
+}

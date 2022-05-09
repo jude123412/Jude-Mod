@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		" A ",
+		" A "
+	],
+	"key": {
+		"A": {
+			"item": "judemod:crynorium_ingot"
+		}
+	},
+	"result": {
+		"item": "judemod:crynorium_rod",
+		"count": 1
+	}
+}

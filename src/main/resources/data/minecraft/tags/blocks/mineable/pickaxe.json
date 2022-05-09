@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": 
+	[
+	"judemod:infernorite_block","judemod:end_infernorite_ore","judemod:crynorium_block","judemod:end_crynorium_ore","judemod:infernorite_furnace","judemod:raw_infernorite_block",
+	"judemod:raw_crynorium_block"
+	]
+}

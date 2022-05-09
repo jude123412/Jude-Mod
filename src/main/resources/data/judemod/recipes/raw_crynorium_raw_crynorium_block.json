@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"III",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "judemod:raw_crynorium"
+		}
+	},
+	"result": {
+		"item": "judemod:raw_crynorium_block",
+		"count": 1
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_rh",
+  "textures": {
+    "top": "judemod:block/nebula_door_top",
+    "bottom": "judemod:block/nebula_door_bottom"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "judemod:block/infernorite_furnace_on",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "judemod:block/infernorite_furnace_on"
+    },
+    "facing=south": {
+      "model": "judemod:block/infernorite_furnace_on",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "judemod:block/infernorite_furnace_on",
+      "y": 270
+    }
+  }
+}

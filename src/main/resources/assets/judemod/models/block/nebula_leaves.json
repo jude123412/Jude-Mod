@@ -1,0 +1,6 @@
+{
+	"parent":"block/leaves",
+	"textures":{
+	"all":"judemod:block/nebula_leaves"
+	}
+}

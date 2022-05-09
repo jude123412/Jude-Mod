@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "judemod:block/infernorite_furnace_top",
+    "front": "judemod:block/infernorite_furnace_front_on",
+    "side": "judemod:block/infernorite_furnace_side"
+  }
+}

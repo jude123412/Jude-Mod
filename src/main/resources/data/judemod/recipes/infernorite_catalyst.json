@@ -1,0 +1,36 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	"ingredients" : [
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "minecraft:netherite_ingot"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		},
+		{
+		"item" : "judemod:raw_infernorite"
+		}
+	],
+	"result": {
+	 "item": "judemod:infernorite_catalyst",
+	 "count": 8
+	}
+}

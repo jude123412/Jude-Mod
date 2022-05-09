@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" BB",
+		" A ",
+		" A "
+	],
+	"key": {
+		"A": {
+			"item": "judemod:crynorium_rod"
+		},
+		"B": {
+			"item": "judemod:infernorite_ingot"
+		}
+	},
+	"result": {
+		"item": "judemod:infernorite_hoe",
+		"count": 1
+	}
+}

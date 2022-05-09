@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "judemod:block/nebula_planks",
+    "top": "judemod:block/nebula_planks",
+    "side": "judemod:block/nebula_planks"
+  }
+}

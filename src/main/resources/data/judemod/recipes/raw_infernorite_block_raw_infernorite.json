@@ -1,0 +1,12 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	"ingredients" : [
+		{
+		"item" : "judemod:raw_infernorite_block"
+		}
+	],
+	"result": {
+	 "item": "judemod:raw_infernorite",
+	 "count": 9
+	}
+}

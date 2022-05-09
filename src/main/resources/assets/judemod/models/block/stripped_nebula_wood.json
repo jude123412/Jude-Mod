@@ -1,0 +1,6 @@
+{
+	"parent":"block/cube_all",
+	"textures":{
+	"all":"judemod:block/stripped_nebula_log"
+	}
+}

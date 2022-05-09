@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"B B",
+		"B B"
+	],
+	"key": {
+		"B": {
+			"item": "judemod:infernorite_ingot"
+		}
+	},
+	"result": {
+		"item": "judemod:infernorite_boots",
+		"count": 1
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "type": "judemod:infernorite_smelting",
+  "ingredients": [
+    {
+      "tag": "judemod:infernorite_ore"
+    }
+  ],
+  "output": {
+    "item": "judemod:infernorite_ingot"
+  }
+}

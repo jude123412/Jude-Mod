@@ -1,0 +1,12 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	"ingredients" : [
+		{
+		"item" : "judemod:nebula_planks"
+		}
+	],
+	"result": {
+	 "item": "judemod:nebula_button",
+	 "count": 1
+	}
+}
